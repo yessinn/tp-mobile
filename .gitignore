@@ -1,0 +1,12 @@
+# Course material and Word reports (submitted on Classroom, not GitHub)
+*.pdf
+*.docx
+
+# Android Studio / Gradle
+.idea/
+*.iml
+.gradle/
+build/
+local.properties
+.kotlin/
+captures/
